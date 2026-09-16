@@ -1,3 +1,5 @@
+// Jenkins automatic build test
+
 package com.busreservation;
 
 import java.util.Scanner;
